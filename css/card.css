@@ -1,0 +1,51 @@
+.card{
+	
+	background:#f5f5f6;
+}
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+
+.card1{
+	height: 300px;
+}
+.card1 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card2{
+	height: 300px;
+}
+.card2 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card3{
+	height: 300px;
+}
+.card3 img{
+	width: 100%;
+	height: 100%;
+}

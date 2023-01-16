@@ -1,0 +1,17 @@
+
+.fpic{
+	width: 170px;
+	height: 130px;
+	float: left;
+}
+.fpic img{
+	margin-left: 5px;
+	width: 100%;
+	height: 100%;
+}
+.no{
+	width: 305px;
+	float: left;
+	margin-left: 10px;
+	box-sizing: border-box;
+}

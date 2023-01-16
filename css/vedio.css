@@ -1,0 +1,48 @@
+.video{
+	
+	background: #323a56;
+}
+.video1{
+	margin-top: 20px;
+}
+.video1 video{
+	width: 100%;
+	height: 100%;
+}
+
+.video a{
+	color: white;
+	text-decoration: none;
+}
+.video a:hover{
+	text-decoration: underline;
+}
+.video2{
+
+	margin-top: 20px;
+}
+.video2 video{
+	width: 100%;
+	height: 100%;
+}
+
+.video3{
+
+	margin-top: 20px;
+}
+.video3 video{
+	width: 100%;
+	height: 100%;
+}
+.linkblock ul li{
+	text-decoration: none;
+	list-style: none;
+	color: blue;
+}
+.linkblock a{
+	color: blue;
+}
+.linkblock a:hover{
+	color: deepskyblue;
+	text-decoration: none;
+}

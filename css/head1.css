@@ -1,0 +1,134 @@
+.head1{
+	width: 100%;
+	border: 1px solid silver;
+	height: 70px;
+}
+.content{
+	width: 100%;
+}
+
+
+.pic1{
+	margin-top: 20px;
+	height: 250px;
+}
+.pic1 img{
+	width: 100%;
+	height: 100%;
+}
+.hum a{
+	color: black;
+	text-decoration: none;
+}
+.hum a:hover{
+	color: blueviolet;
+}
+/*Col One End*/
+
+
+.pic2{
+	margin-top: 20px;
+	height: 250px;
+}
+.pic2 img{
+	width: 100%;
+	height: 100%;
+}
+
+/*Col Two End*/
+#col3{
+	margin-top: 20px;
+	}
+
+
+.pic3inside{
+	float: right;
+	width: 70%;
+}
+.pic3inside img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.cimg1{
+	width: 100px;
+	float: left;
+	height: 100px;
+	margin-top: 20px;
+	border-radius: 100px;
+}
+.cimg1 img{
+	border-radius: 100%;
+	width: 100%;
+	height: 100%;
+}
+.cimgtext1{
+	width: 70%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.cimgtext1 a{
+	text-decoration: none;
+	color: black;
+}
+
+.cimgtext1 a:hover{
+	color: blue;
+}
+
+.cimg2{
+	width: 100px;
+	float: left;
+	height: 100px;
+	margin-top: 20px;
+	border-radius: 100px;
+}
+.cimg2 img{
+	border-radius: 100%;
+	width: 100%;
+	height: 100%;
+}
+.cimgtext2{
+	width: 70%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.cimgtext2 a{
+	text-decoration: none;
+	color: black;
+}
+
+.cimgtext2 a:hover{
+	color: blue;
+}
+
+.cimg3{
+	width: 100px;
+	float: left;
+	height: 100px;
+	margin-top: 20px;
+	border-radius: 100px;
+}
+.cimg3 img{
+	border-radius: 100%;
+	width: 100%;
+	height: 100%;
+}
+.cimgtext3{
+	width: 70%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.cimgtext3 a{
+	text-decoration: none;
+	color: black;
+}
+
+.cimgtext3 a:hover{
+	color: blue;
+}

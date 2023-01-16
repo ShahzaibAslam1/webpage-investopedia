@@ -1,0 +1,79 @@
+.footer1{
+	background: #323a56;
+	
+}
+.logopic{
+	width: 50%;
+}
+.logopic img{
+	width: 100%;
+	height: 100%;
+}
+.footericon{
+	margin-top: 5px;
+}
+.footericon i{
+	margin-left: 8px;
+	color: white;
+	font-size: 20px;
+}
+.fot1{
+	margin-top: 10px;
+	width: 40%;
+}
+
+
+.fot2 li{
+	list-style: none;
+}
+.fot2 a{
+	color: white;
+	text-decoration: none;
+}
+.fot2 a:hover{
+	color: skyblue;
+	text-decoration: underline;
+}
+
+
+.fot3 li{
+	list-style: none;
+}
+.fot3 a{
+	color: white;
+	text-decoration: none;
+}
+.fot3 a:hover{
+	color: skyblue;
+	text-decoration: underline;
+}
+
+.fot4 li{
+	list-style: none;
+}
+.fot4 a{
+	color: white;
+	text-decoration: none;
+}
+.fot4 a:hover{
+	color: skyblue;
+	text-decoration: underline;
+}
+hr{
+	color: white;
+}
+.abclink a{
+	color: white;
+	text-decoration: none;
+	margin-left: 27px;
+}
+.abclink a:hover{
+	color: skyblue;
+	text-decoration: underline;
+}
+.end a{
+	color: black;
+}
+.end a:hover{
+	color: skyblue;
+}
